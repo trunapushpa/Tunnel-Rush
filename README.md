@@ -1,7 +1,12 @@
 # Tunnel-Rush
 
-A demo is available here: http://web.iiit.ac.in/~trunapushpa/Tunnel-Rush
-Just open `index.html` in your browser.
+## How to run
+
+Go to: http://web.iiit.ac.in/~trunapushpa/Tunnel-Rush
+
+or
+
+Clone the repository and open `index.html` in your browser.
 
 ## Controls
 
