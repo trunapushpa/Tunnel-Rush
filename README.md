@@ -1,5 +1,6 @@
 # Tunnel-Rush
 
+A demo is available here: http://web.iiit.ac.in/~trunapushpa/Tunnel-Rush
 Just open `index.html` in your browser.
 
 ## Controls
